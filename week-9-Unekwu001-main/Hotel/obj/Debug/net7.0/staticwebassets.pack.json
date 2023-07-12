@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hotel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\css\\style4signUp.css",
+      "PackagePath": "staticwebassets\\css\\style4signUp.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\big.png",
+      "PackagePath": "staticwebassets\\img\\big.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\favicon.jpg",
+      "PackagePath": "staticwebassets\\img\\favicon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\happyfamile.png",
+      "PackagePath": "staticwebassets\\img\\happyfamile.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\loggin.jpg",
+      "PackagePath": "staticwebassets\\img\\loggin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\ac.png",
+      "PackagePath": "staticwebassets\\img\\new\\ac.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\banner.png",
+      "PackagePath": "staticwebassets\\img\\new\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\camera.png",
+      "PackagePath": "staticwebassets\\img\\new\\camera.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\dining.png",
+      "PackagePath": "staticwebassets\\img\\new\\dining.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\firsta.png",
+      "PackagePath": "staticwebassets\\img\\new\\firsta.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\frige.png",
+      "PackagePath": "staticwebassets\\img\\new\\frige.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\last.png",
+      "PackagePath": "staticwebassets\\img\\new\\last.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\lastfoto.png",
+      "PackagePath": "staticwebassets\\img\\new\\lastfoto.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\location.png",
+      "PackagePath": "staticwebassets\\img\\new\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\seconda.png",
+      "PackagePath": "staticwebassets\\img\\new\\seconda.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\stars.png",
+      "PackagePath": "staticwebassets\\img\\new\\stars.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\thirda.png",
+      "PackagePath": "staticwebassets\\img\\new\\thirda.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\travel.png",
+      "PackagePath": "staticwebassets\\img\\new\\travel.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\tv.png",
+      "PackagePath": "staticwebassets\\img\\new\\tv.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\new\\wifi.png",
+      "PackagePath": "staticwebassets\\img\\new\\wifi.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\signup.jpg",
+      "PackagePath": "staticwebassets\\img\\signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\small.png",
+      "PackagePath": "staticwebassets\\img\\small.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\img\\small1.png",
+      "PackagePath": "staticwebassets\\img\\small1.png"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Decagon Laptop\\Downloads\\week9\\week-9-Unekwu001-main\\Hotel\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Hotel.props",
+      "PackagePath": "build\\Hotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Hotel.props",
+      "PackagePath": "buildTransitive\\Hotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
